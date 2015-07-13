@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EC87CAB1-DEB9-4285-A680-7869F233CC99</string>
+	<key>IDESourceControlProjectName</key>
+	<string>factoryDesign</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F0BE0049402E784EB9C57124F2BFA31EBE19E6AB</key>
+		<string>https://github.com/mohdt-optimus/iOS_induction.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>factoryDesign/factoryDesign.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F0BE0049402E784EB9C57124F2BFA31EBE19E6AB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mohdt-optimus/iOS_induction.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F0BE0049402E784EB9C57124F2BFA31EBE19E6AB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F0BE0049402E784EB9C57124F2BFA31EBE19E6AB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS_induction</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -39,6 +39,10 @@
 @implementation Shape
 {
 }
+-(void) draw
+{
+    NSLog(@"Shape");
+}
 @end
 
 @implementation Rectangle
